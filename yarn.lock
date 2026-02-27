@@ -43,9 +43,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@arman/react-native-fast-shimmer@workspace:.":
+"@armanshep/react-native-fast-shimmer@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@arman/react-native-fast-shimmer@workspace:."
+  resolution: "@armanshep/react-native-fast-shimmer@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^19.6.0
     "@eslint/compat": ^1.2.7
